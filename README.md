@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Udit-prasad
-- 👀 I’m interested in Software Development and Game Developmebt
+- 👀 I’m interested in Software Development and Game Development
 - 🌱 I’m currently learning java
 - 📫 How to reach me: prasadudit80@gmail.com
 - 😄 Pronouns: he/him
