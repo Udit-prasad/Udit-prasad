@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Udit-prasad
-- 👀 I’m interested in Software Development 
+- 👀 I’m interested in AI/ML
 - 🌱 I’m currently learning DSA and Web dev
 - 📫 How to reach me: prasadudit80@gmail.com
 - 😄 Pronouns: he/him
