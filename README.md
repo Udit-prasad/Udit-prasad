@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Udit Prasad</h1>
 <h3 align="center">A passionate frontend developer from Kolkata, India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=udit-prasad" alt="udit-prasad" /></a> </p>
-
 - 🌱 I’m currently learning **Full Stack Development alongside with DSA**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-sage-chi-78.vercel.app/](https://portfolio-sage-chi-78.vercel.app/)
