@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Udit Prasad</h1>
 <h3 align="center">A passionate frontend developer from Kolkata, India</h3>
 
+###
+
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW8xZDh1ZWRkZHJpZGZzam16czYzM2JweXltdGV6ZWZzMDB4cGxoeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/DSxKEQoQix9hC/giphy.gif"  />
+
+###
+
 - 🌱 I’m currently learning **Full Stack Development alongside with DSA**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-sage-chi-78.vercel.app/](https://portfolio-sage-chi-78.vercel.app/)
@@ -11,11 +17,6 @@
 
 - ⚡ Fun fact **When I’m not coding, you’ll probably find me deep into a plot twist in an anime, mastering my next video game level, or hitting high notes — because yes, I can actually sing pretty well!**
 
-###
-
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW8xZDh1ZWRkZHJpZGZzam16czYzM2JweXltdGV6ZWZzMDB4cGxoeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/DSxKEQoQix9hC/giphy.gif"  />
-
-###
 
 
 <div align="center">
