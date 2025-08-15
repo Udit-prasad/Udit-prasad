@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Udit Prasad</h1>
-<h3 align="center">A passionate frontend developer from Kolkata, India</h3>
+<h3 align="center">A passionate Developer from Kolkata, India</h3>
 
 ###
 
